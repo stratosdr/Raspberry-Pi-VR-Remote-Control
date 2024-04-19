@@ -1,1 +1,1 @@
-# Raspberry Pi VR Remote Control with Unity app for Android using Google Cardboard
+# Raspberry Pi VR Remote Control of Industrial Systems, made with Unity for Android using Google Cardboard
